@@ -162,7 +162,7 @@
             <dependency>
                 <artifactId>maven-plugin-api</artifactId>
                 <groupId>org.apache.maven</groupId>
-                <version>3.5.0</version>
+                <version>3.8.6</version>
             </dependency>
             <dependency>
                 <artifactId>maven-plugin-annotations</artifactId>
