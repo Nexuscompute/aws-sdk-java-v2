@@ -31,7 +31,7 @@
     <version>${awsjavasdk.version}-PREVIEW</version>
 
     <properties>
-        <awsjavasdk.version>${project.parent.version}</awsjavasdk.version>
+        <awsjavasdk.version>2.18.35</awsjavasdk.version>
         <jre.version>1.8</jre.version>
     </properties>
 
