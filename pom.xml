@@ -90,7 +90,7 @@
         <connection>${scm.github.connection}</connection>
     </scm>
     <properties>
-        <awsjavasdk.version>${project.version}</awsjavasdk.version>
+        <awsjavasdk.version>2.20.103</awsjavasdk.version>
         <awsjavasdk.previous.version>2.20.102</awsjavasdk.previous.version>
         <jackson.version>2.13.2</jackson.version>
         <jackson.databind.version>2.13.4.2</jackson.databind.version>
