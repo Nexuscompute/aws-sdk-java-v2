@@ -96,11 +96,11 @@
         <connection>${scm.github.connection}</connection>
     </scm>
     <properties>
-        <awsjavasdk.version>${project.version}</awsjavasdk.version>
+        <awsjavasdk.version>2.27.6</awsjavasdk.version>
         <awsjavasdk.previous.version>2.25.67</awsjavasdk.previous.version>
-        <jackson.version>2.15.2</jackson.version>
+        <jackson.version>2.17.2</jackson.version>
         <jackson.databind.version>2.15.2</jackson.databind.version>
-        <jacksonjr.version>2.13.2</jacksonjr.version>
+        <jacksonjr.version>2.17.2</jacksonjr.version>
         <eventstream.version>1.0.1</eventstream.version>
         <commons.lang.version>3.14.0</commons.lang.version>
         <wiremock.version>2.32.0</wiremock.version>
@@ -116,7 +116,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spotbugs.version>4.7.3.5</spotbugs.version>
         <javapoet.verion>1.13.0</javapoet.verion>
-        <org.eclipse.jdt.version>3.10.0</org.eclipse.jdt.version>
+        <org.eclipse.jdt.version>3.38.0</org.eclipse.jdt.version>
         <org.eclipse.text.version>3.5.101</org.eclipse.text.version>
         <rxjava.version>2.2.21</rxjava.version>
         <commons-codec.verion>1.15</commons-codec.verion>
